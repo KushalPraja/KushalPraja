@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kushal Prajapati</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushpraja&label=Profile%20views&color=0e75b6&style=flat" alt="kushpraja" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KushalPraja&label=Profile%20views&color=0e75b6&style=flat" alt="KushalPraja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushpraja" alt="kushpraja" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushpraja" alt="KushalPraja" /></a> </p>
 
 - 🌱 I’m currently learning **React JS**
 
