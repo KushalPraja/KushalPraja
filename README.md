@@ -1,23 +1,68 @@
-<h1 align="center">Hi 👋, I'm Kushal Prajapati</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+# Hello there 👋 , I'm Kushal Prajapati
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KushalPraja&label=Profile%20views&color=0e75b6&style=flat" alt="KushalPraja" /> </p>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKushalPraja%2FKushalPraja%2F&countColor=%23263759)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushpraja" alt="KushalPraja" /></a> </p>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **kushpraja6@gmail.com**
+class SoftwareEngineer:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+    def __init__(self):
+        self.name = "Kushal Prajapati"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_US" , "hi-IN" ]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KushalPraja&show_icons=true&locale=en&layout=compact" alt="KushalPraja" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KushalPraja&show_icons=true&locale=en" alt="KushalPraja" /></p>
+me = SoftwareEngineer()
+me.say_hello()
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KushalPraja&" alt="KushalPraja" /></p>
+
+## 🔧 Technologies & Tools
+
+
+**Programming Languages:**
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+
+
+**Tools and Services:**
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> -->
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KushalPraja&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/KushalPraja/Bloom_Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalPraja&repo=Bloom_Bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Bloom_Bot" />
+</a>
+
+<a href="https://github.com/KushalPraja/MathCanvas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalPraja&repo=MathCanvas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MathCanvas" />
+</a>
+
+<!-- ## 👨‍💻 This week, I spent my time on:
