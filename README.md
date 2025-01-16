@@ -1,7 +1,7 @@
 # Hello there 👋 , I'm Kushal Prajapati
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKushalPraja%2FKushalPraja%2F&countColor=%23263759)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 
 ```python
 #!/usr/bin/python
