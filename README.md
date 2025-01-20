@@ -1,4 +1,5 @@
 # Hello there 👋 , I'm Kushal Prajapati
+<p>An aspiring fullstack developer from Waterloo, Canada</p>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKushalPraja%2FKushalPraja%2F&countColor=%23263759)
 
@@ -7,16 +8,28 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
 class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Kushal Prajapati"
         self.role = "Software Engineer"
         self.language_spoken = ["en_US" , "hi-IN" ]
+        self.fields_of_interests = [
+            "Web Development",
+            "Data Science",
+            "Machine Learning",
+            "UI/UX",
+        ]
+        self.currently_learning = ["ReactJS", "OOP Design Patterns", "Data Analysis with SQL"]
+        self.goals_2025 = [
+            "Build 20+ impactful projects",
+            "Learn 5+ new technologies + VIM",
+            "Launch a Developer Blog Website"
+        ]
+        self.hobbies = ["Coding", "Reading", "Gaming", "Photography"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print(" Thanks for dropping by, hope you find some of my work interesting! ")
 
 
 me = SoftwareEngineer()
