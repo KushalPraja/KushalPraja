@@ -9,7 +9,7 @@
 
 
 
-<h3 align=center> An aspiring fullstack developer from Waterloo, Canada </h3><br>
+<h3 align=center> An aspiring fullstack developer from Toronto, Canada </h3><br>
 
 <p align="center">
    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKushalPraja%2FKushalPraja%2F&countColor=%23263759" alt="Visitors">
