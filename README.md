@@ -114,12 +114,12 @@ me.say_hello()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/KushalPraja/Bloom_Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalPraja&repo=Bloom_Bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Bloom_Bot"/>
+<a href="https://github.com/KushalPraja/Thorem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalPraja&repo=Thorem&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Bloom_Bot"/>
 </a>
 &nbsp;
-<a href="https://github.com/KushalPraja/MathCanvas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalPraja&repo=MathCanvas&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MathCanvas" />
+<a href="https://github.com/KushalPraja/SoundWave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KushalPraja&repo=SoundWave&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MathCanvas" />
 </a>
 
 <!-- ## 👨‍💻 This week, I spent my time on:
