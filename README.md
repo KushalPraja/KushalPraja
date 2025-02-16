@@ -91,7 +91,7 @@ me.say_hello()
 
 <!-- 🚀 Portfolio Section -->
 <section id="portfolio" style="background-color: #f4f4f9; padding: 50px 0; text-align: center;">
-    <h2 style="font-size: 36px; margin-bottom: 20px;">✨ My Portfolio ✨</h2>
+    <h2 style="font-size: 36px; margin-bottom: 20px;">✨ Visit My Portfolio ✨</h2>
     <p style="font-size: 20px; margin-bottom: 40px;">💻 Explore my latest projects and creations! 🚀</p>
     <a href="https://kushalprajapati.me" target="_blank" style="text-decoration: none; color: #007bff; font-size: 24px; display: inline-flex; align-items: center; gap: 10px;">
         🌍 <i class="fas fa-globe" style="font-size: 30px;"></i> Visit My Portfolio Site
